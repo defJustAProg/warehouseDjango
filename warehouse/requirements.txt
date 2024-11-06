@@ -1,0 +1,5 @@
+django
+passlib==1.7.4 
+python-dotenv
+httpx
+psycopg2>=2.9
